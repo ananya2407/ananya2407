@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Ananya Sajwan <img src="https://github.com/ananya2407/ananya2407/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Ananya Sajwan <img src="https://github.com/ananya2407/ananya2407/blob/main/Assets/Hi.gif" width="22px">
 
 ---
 
@@ -25,20 +25,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 📫 Connect with me: https://www.linkedin.com/in/ananya-sajwan-2407/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+- ⚡ Fun fact: I'm a travel buff :)
 
 <br />
 
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/ananya2407/ananya2407/blob/master/Assets/github.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/github.png" />
 
 <br />
 <br />
