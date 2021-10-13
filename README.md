@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭 I’m currently working on Data Analytics and Machine Learning
-- 🌱 Currently I'm learning Apache Spark and PowerBI
+- 🌱 I’m currently learning Apache Spark and PowerBI
 - 👯 I’m looking to collaborate on Data Analytics projects
 - 📫 Connect with me: https://www.linkedin.com/in/ananya-sajwan-2407/
 - 😄 Pronouns: She/Her
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/python.png" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/jupyter.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/ananya2407/ananya2407/blob/main/Assets/javascript.png" />
