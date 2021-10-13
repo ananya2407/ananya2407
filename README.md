@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 ![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=ananya2407&theme=nord&show_icons=true&count_private=true)
   
   
-<!--   Top Languages Using -->
+<!--   Top Languages Used -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?ananya2407&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?ananya2407&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananya2407&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananya2407&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
