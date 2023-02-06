@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ananya Sajwan <img src="https://github.com/ananya2407/ananya2407/blob/main/Assets/Hi.gif" width="22px">
 ---
 
-I'm a 4th year Computer Science Engineering student at Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. I recently completed my Software Engineering Internship at the National Informatics Centre, Government of India and I am currently working as a Data Analytics Intern at PharmEasy. I have actively participated and won several hackathons and business competitions. Apart from this, my hobbies include playing badminton and tennis, swimming, reading novels and watching movies. ✨
+I'm a 4th year Computer Science Engineering student at Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. I recently completed my Software Engineering Internship at the National Informatics Centre, Government of India and I am currently working as a Data Analyst at PharmEasy. I have actively participated and won several hackathons and business competitions. Apart from this, my hobbies include playing badminton and tennis, swimming, reading novels and watching movies. ✨
 <br />
 
 <br />
