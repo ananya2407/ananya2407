@@ -17,17 +17,14 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ananya Sajwan <img src="https://github.com/ananya2407/ananya2407/blob/main/Assets/Hi.gif" width="22px">
 ---
 
-I'm a 4th year Computer Science Engineering student at Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. I recently completed my Software Engineering Internship at the National Informatics Centre, Government of India and I am currently working as a Data Analyst at PharmEasy. I have actively participated and won several hackathons and business competitions. Apart from this, my hobbies include playing badminton and tennis, swimming, reading novels and watching movies. ✨
+I'm a Computer Science Engineering graduate from Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. I recently completed my Software Engineering Internship at the National Informatics Centre, Government of India and I am currently working as a Data Analyst at PharmEasy. I have actively participated and won several hackathons and business competitions and look forward to collaborating with people with similar interests.
 <br />
 
 <br />
 
-- 🔭 I’m currently working on Data Analytics and Machine Learning
-- 🌱 I’m currently learning RedShift and Hive
+- 🔭 I’m currently working on creating consumer insights using analytical tools and models
 - 👯 I’m looking to collaborate on Data Analytics projects, Hackathons or Business Challenges
 - 📫 Connect with me: https://www.linkedin.com/in/ananya-sajwan-2407/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a travel buff :)
 
 <br />
 
