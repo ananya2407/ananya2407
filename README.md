@@ -77,16 +77,13 @@ I'm a Computer Science Engineering graduate from Vellore Institute of Technology
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/ananya-sajwan-2407/" target="_blank">
-  <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Ananya Sajwan | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/ananya_sajwan" target="_blank">
-  <img align="center" alt="Darshan R | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/ananya.sajwan/" target="_blank">
-  <img align="center" alt="Darshan R | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Ananya Sajwan | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:anasajwan2407@gmail.com" target="_blank">
-  <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Ananya Sajwan | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
   
