@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Ananya Sajwan <img src="https://github.com/ananya2407/ananya2407/blob/main/Assets/Hi.gif" width="22px">
 ---
 
-I'm a Computer Science Engineering graduate from Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. I am currently working as a Senior Business Analyst at PharmEasy. I have actively participated and won several hackathons and business competitions and look forward to collaborating with people with similar interests.
+I'm a Computer Science Engineering graduate from Vellore Institute of Technology, Chennai with interests in Machine Learning and Data Analytics. As an analytics and data science professional with over 3 years of experience, I have led end-to-end initiatives spanning metric deep-dives, funnel diagnostics, A/B experimentation, dashboard automation, and the development of machine learning models to drive business outcomes. I am currently working as a Senior Data Science Analyst at eBay. I have actively participated and won several hackathons and business competitions and look forward to collaborating with people with similar interests.
 <br />
 
 <br />
